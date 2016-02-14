@@ -20,4 +20,4 @@
 vendor/bundle
 
 # OLD
-.old
+*.old
